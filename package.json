@@ -1,0 +1,12 @@
+{
+  "name": "js-core-kosher",
+  "version": "1.0.0",
+  "description": "Week 4 JavaScript core laboratory: functions, closures, classes and unit tests.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
