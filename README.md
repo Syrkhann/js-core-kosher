@@ -80,4 +80,7 @@ I used **ChatGPT** to help understand the assignment requirements, structure the
 
 ## Test screenshot
 
-After running `npm test`, the terminal should show all tests passing. A screenshot of the passing test run is included as `test-output.png` in the repository package.
+
+After running `npm test`, all tests pass:
+
+![Passing tests](test-output.png)
